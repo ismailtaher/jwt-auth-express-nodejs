@@ -37,6 +37,8 @@ app.use('/auth', require('./routes/auth'));
 
 // refresh endpoint
 app.use('/refresh', require('./routes/refresh'));
+// logout endpoint
+app.use('/logout', require('./routes/logout'));
 // verifyJWT middleware to verify our access token
 app.use(verifyJWT);
 // protected route placed below our verifyJWT middleware
