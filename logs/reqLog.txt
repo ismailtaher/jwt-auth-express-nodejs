@@ -90,3 +90,5 @@
 20250801	19:46:00	083859bf-bb03-4d1b-a397-265a5d6fa591	GET	undefined	/employees/ 
 20250801	20:51:06	a4aa73cb-d32f-4f62-9f75-8bfb31c899e0	GET	undefined	/employees/ 
 20250801	20:56:05	360264ba-6bbe-4b81-b20b-54ab49f04936	GET	undefined	/employees/ 
+20250802	17:34:29	7481b3c7-717b-4513-976d-3515a454ede3	POST	undefined	/auth 
+20250802	17:35:31	257379e7-d3fd-4e7b-9691-83b02901efb0	GET	undefined	/refresh 
