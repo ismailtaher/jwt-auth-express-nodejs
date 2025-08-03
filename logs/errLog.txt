@@ -5,3 +5,5 @@
 20250730	19:09:04	33eddcb2-fdf4-4387-9f3f-804078a1eddf	TypeError: Cannot read properties of undefined (reading 'id') 
 20250731	18:30:17	2738ba25-0811-4d7d-b528-3d0beeed7f47	SyntaxError: Expected ',' or '}' after property value in JSON at position 18 (line 1 column 19) 
 20250731	18:32:24	33ad2971-f6f4-4175-adfc-3afa076fcb99	SyntaxError: Expected ',' or '}' after property value in JSON at position 18 (line 1 column 19) 
+20250803	06:21:16	96dcd159-1004-469e-a9f7-0d51ec20849f	TypeError: allowedOrigins.indexOf is not a function 
+20250803	06:22:27	8ae6a163-e95b-4081-9796-e37f0e2fe0b9	TypeError: allowedOrigins.indexOf is not a function 
